@@ -1,0 +1,4 @@
+binancevenv/
+__pycache__/
+*.pyc
+.env
