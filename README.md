@@ -75,7 +75,7 @@ Structured Streaming
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/binance-pipeline.git
+git clone https://github.com/YuwandaAji/binance-pipeline.git
 cd binance-pipeline
 ```
 
